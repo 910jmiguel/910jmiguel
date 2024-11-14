@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Advincula</h1>
-<h3 align="center">Computer Science Student @ YorkU | Potential Full Stack Developer</h3>
+<h3 align="center">Computer Science Student @ York University, Lassonde School of Engineering | Potential Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Front End Development**
 
