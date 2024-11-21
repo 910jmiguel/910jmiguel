@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel Advincula</h1>
 <h3 align="center">Computer Science Student @ York University, Lassonde School of Engineering | Potential Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Front End Development**
-
-- 📫 How to reach me **910jmiguel@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/910jmiguel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="910jmiguel" height="30" width="40" /></a>
