@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">Computer Science Student @ York University, Lassonde School of Engineering | Potential Full Stack Developer</h3>
+<h3 align="center">Computer Science @ York University, Lassonde School of Engineering | Potential Full Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
