@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">Computer Science @ York University, Lassonde School of Engineering | AI & Full-Stack Developer | Seeking for Winter '26 Internships</h3>
+<h3 align="center">Computer Science @ York U, Lassonde School of Engineering | AI & Full-Stack Developer | Seeking for Winter '26 Internships</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
