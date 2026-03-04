@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">Software Engineer Intern @ Pitstop | Founding Engineer @ HAVN Inc. | Prev. Full-Stack Developer @ PharmShift | CS @ Lassonde School of Engineering, York University</h3>
+<h3 align="center">AI & Software Engineer Intern @ Pitstop | Content Engineer @ Chatbase | Founding Engineer @ HAVN Inc. | CS @ YorkU | Seeking Summer ’26 Internships</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
